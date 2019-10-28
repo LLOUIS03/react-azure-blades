@@ -1,0 +1,11 @@
+.blade-blade-element {
+  position: relative;
+
+  background-color: white;
+  height: 100%;
+  min-width: 200px;
+
+  display: flex;
+  flex-direction: column;
+  box-shadow: -1px 0px 2px 0px rgba(0, 0, 0, 0.5);
+}
